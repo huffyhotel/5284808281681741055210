@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "341644146470",
+    "project_id": "xvidos-3cad0",
+    "storage_bucket": "xvidos-3cad0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341644146470:android:d676eabc03d202a5a033e7",
+        "android_client_info": {
+          "package_name": "com.videoplayer.appbgtekno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341644146470-4g9pbmvbps90ef0g8f0dpjl1t3klanta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.videoplayer.appbgtekno",
+            "certificate_hash": "9c1c9cdb717df62f1d50fdd56617df4ce0507978"
+          }
+        },
+        {
+          "client_id": "341644146470-6lmsqjpsdpmfpgqg0bfm8pmi0n7s0s0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUfcU1xMZsasqIYxKtkPGQksU6SaUjo4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341644146470-4r8idculee627g2j3s77o72fcpc1cgtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
